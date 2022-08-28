@@ -14,8 +14,8 @@ I have attached the link to this webapp
 
 
 
-!(screenshot)[project-demo1.png]
-!(screenshot)[project-demo2.png]
+![screenshot](project-demo1.png)
+![screenshot](project-demo2.png)
 
 
 
