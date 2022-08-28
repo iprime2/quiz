@@ -9,7 +9,7 @@ In this webapp it fetch the questios and answer from an api.
 
 It also calculate the score of the player.
 
-I have attached the link to this webapp
+I have attached the link to this webapp so, please fell free to check out my webapp
 
 https://dcf2b8cee969-shared.lowcodeunit.com/
 
