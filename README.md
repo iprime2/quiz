@@ -11,7 +11,7 @@ It also calculate the score of the player.
 
 I have attached the link to this webapp so, please fell free to check out my webapp
 
-https://dcf2b8cee969-shared.lowcodeunit.com/
+https://sushil-quiz.on.fleek.co/
 
 
 ![screenshot](project-demo1.png)
